@@ -109,22 +109,6 @@ Mindset    : Learn, Build, Improve, Repeat.
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ahmedaboelezz818/Center-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedaboelezz818&repo=Center-Management-System&theme=radical&hide_border=true" width="100%" alt="Center Management System repository card">
-</a>
-
-<a href="https://github.com/ahmedaboelezz818/DVLD-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedaboelezz818&repo=DVLD-System&theme=radical&hide_border=true" width="100%" alt="DVLD System repository card">
-</a>
-
-<a href="https://github.com/ahmedaboelezz818/ATM-Simulation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedaboelezz818&repo=ATM-Simulation&theme=radical&hide_border=true" width="100%" alt="ATM Simulation repository card">
-</a>
-
-</div>
-
 ### 🎓 Center Management System — C#
 
 An educational center management application designed to organize daily operations.
